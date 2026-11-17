@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Diya — Full-stack JavaScript developer" width="100%"/>
+<img src="assets/banner.svg" alt="profile banner" width="100%"/>
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-## `> about --me`
+## `> whoami`
 
-<img src="assets/terminal.svg" alt="terminal about card" width="820"/>
+<img src="assets/terminal.svg" alt="terminal" width="820"/>
 
 </div>
 
@@ -26,12 +26,24 @@
 
 ## `> ls ./projects`
 
-<a href="https://github.com/diyaguglanikantar01/secret-harbour-tracker"><img src="assets/card-secret-harbour-tracker.svg" width="410"/></a>
-<img src="assets/card-oh-dashboard.svg" width="410"/>
-<img src="assets/card-eci-tool-tracking-system.svg" width="410"/>
-<img src="assets/card-Master-Scraper.svg" width="410"/>
+<!--PROJECTS:START-->
+<img src="assets/card-01.svg" width="410" alt="oh-dashboard"/>
+<img src="assets/card-02.svg" width="410" alt="eci-tool-tracking-system"/>
+<a href="https://github.com/diyaguglanikantar01/secret-harbour-tracker"><img src="assets/card-03.svg" width="410" alt="secret-harbour-tracker"/></a>
+<img src="assets/card-04.svg" width="410" alt="Master-Scraper"/>
+<!--PROJECTS:END-->
 
-<sub>🔒 Private projects: architecture walkthroughs and demos available on request.</sub>
+<sub>🟢 active (pushed &lt; 30 days) &nbsp; 🟡 idle (&lt; 120 days) &nbsp; ⚪ dormant &nbsp;·&nbsp; 🔒 private projects: walkthroughs on request</sub>
+
+</div>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<div align="center">
+
+## `> uptime --rhythm`
+
+<img src="assets/rhythm.svg" alt="coding rhythm" width="100%"/>
 
 </div>
 
@@ -41,28 +53,20 @@
 
 ## `> git log --graph`
 
+<img src="assets/stats.svg" alt="activity" width="100%"/>
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyaguglanikantar01/diyaguglanikantar01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diyaguglanikantar01/diyaguglanikantar01/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/diyaguglanikantar01/diyaguglanikantar01/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+  <img alt="contribution snake" src="assets/snake-dark.svg" width="100%">
 </picture>
 
 <br/><br/>
 
-<img src="assets/metrics.svg" alt="GitHub metrics" width="100%"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-<div align="center">
-
-## `> contact --open`
-
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-0b1017?style=for-the-badge&logo=gmail&logoColor=70cfe0"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-0b1017?style=for-the-badge&logo=linkedin&logoColor=70cfe0"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-0b1017?style=for-the-badge&logo=vercel&logoColor=70cfe0"/></a>
-
-<sub>Built with hand-made SVG + GitHub Actions. Updates itself daily.</sub>
+<a href="https://github.com/diyaguglanikantar01/diyaguglanikantar01/actions/workflows/profile.yml"><img src="https://github.com/diyaguglanikantar01/diyaguglanikantar01/actions/workflows/profile.yml/badge.svg" alt="profile sync status"/></a>
+<br/>
+<sub>Generated from <code>profile.config.json</code> · refreshes every 6 hours</sub>
 
 </div>
